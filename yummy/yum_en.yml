@@ -1,40 +1,38 @@
 ---
 en:
   a: a
-  access: Accéder
+  access: Access
   actions: Actions
-  add_file: Ajouter un fichier
-  added_on: Ajouté le
-  additional: Supplémentaire
+  add_file: Add file
+  added_on: Added on
+  additional: Additional
   administration: Administration
-  administrator: Administrateur
-  all_rights_reserved: Tous droits réservés
-  and: et
-  back: Retour
-  change: Changer
-  close: Fermer
-  confirm_delete: Voulez-vous vraiment supprimer ce fichier?
+  administrator: Administrator
+  all_rights_reserved: All rights reserved
+  and: and
+  back: Back
+  change: Change
+  close: Close
+  confirm_delete: Do you really want to delete this file?
   confirmation: Confirmation
   cyberlibris: Cyberlibris
-  days: jours
-  delete: Supprimer
+  days: days
+  delete: Delete
   description: Description
-  details: Détails
-  disabled: Désactiver
-  download: Télécharger
+  details: Details
+  disabled: Disable
+  download: Download
   ean: EAN
-  error: Les images suivantes contiennent plus de 4 millions de pixels.
-  example: Exemple
-  execute: "Éxécuter"
-  expand_all: Afficher tout
-  file: Fichier
-  files: Fichiers
-  filesize: Taille du fichier
-  free: Gratuit
-  from: Du
-  holidays: <
-    Veuillez noter que pour la période des Fêtes, la plupart des partenaires
-    connectés à la plateforme offriront des services plus limités qu'à l'habitude.
-    Tous les envois (nouveautés et mises à jour) vers les plateformes %{platforms}
-    seront suspendus du 21 au 27 décembre inclusivement. Nous vous invitons également
-    à limiter les changements apportés à votre catalogue d'ici au 3 janvier 2014.
+  error: The following images contain over 4 million pixels.
+  example: Example
+  execute: Execute
+  expand_all: Expand all
+  file: File
+  files: Files
+  filesize: File size
+  free: Free
+  from: From
+  holidays: Please note that most platform partners will offer limited services for
+    the upcoming Holiday Season. File submission to %{platforms} (including new releases
+    and updates) will be suspended from december 21st to 27th inclusive. We recommend
+    minimizing catalogue changes until January 3rd, 2014.
