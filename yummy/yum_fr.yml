@@ -1,0 +1,40 @@
+---
+fr:
+  a: a
+  access: Accéder
+  actions: Actions
+  add_file: Ajouter un fichier
+  added_on: Ajouté le
+  additional: Supplémentaire
+  administration: Administration
+  administrator: Administrateur
+  all_rights_reserved: Tous droits réservés
+  and: et
+  back: Retour
+  change: Changer
+  close: Fermer
+  confirm_delete: Voulez-vous vraiment supprimer ce fichier?
+  confirmation: Confirmation
+  cyberlibris: Cyberlibris
+  days: jours
+  delete: Supprimer
+  description: Description
+  details: Détails
+  disabled: Désactiver
+  download: Télécharger
+  ean: EAN
+  error: Les images suivantes contiennent plus de 4 millions de pixels.
+  example: Exemple
+  execute: "Éxécuter"
+  expand_all: Afficher tout
+  file: Fichier
+  files: Fichiers
+  filesize: Taille du fichier
+  free: Gratuit
+  from: Du
+  holidays: |
+    Veuillez noter que pour la période des Fêtes, la plupart des partenaires
+    connectés à la plateforme offriront des services plus limités qu'à l'habitude.
+    Tous les envois (nouveautés et mises à jour) vers les plateformes %{platforms}
+    seront suspendus du 21 au 27 décembre inclusivement. Nous vous invitons également
+    à limiter les changements apportés à votre catalogue d'ici au 3 janvier 2014.
