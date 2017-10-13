@@ -6,8 +6,8 @@ fr:
   add_file: Ajouter un fichier
   added_on: Ajouté le
   additional: null
-  administration: ~
-  administrator: ''
+  administration: "test"
+  administrator: 'aaaaa'
   all_rights_reserved: Tous droits réservés
   and: et
   back: Retour
