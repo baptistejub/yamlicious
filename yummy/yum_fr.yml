@@ -5,9 +5,9 @@ fr:
   actions: Actions
   add_file: Ajouter un fichier
   added_on: Ajouté le
-  additional: Supplémentaire
-  administration: Administration
-  administrator: Administrateur
+  additional: null
+  administration: ~
+  administrator: ''
   all_rights_reserved: Tous droits réservés
   and: et
   back: Retour
