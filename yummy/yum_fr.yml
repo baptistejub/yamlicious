@@ -5,15 +5,18 @@ fr:
   actions: Actions
   add_file: Ajouter un fichier
   added_on: Ajouté le
-  additional: \"\"
-  administration: "test"
-  administrator: 'aaaaa'
+  additional: null
+  administration: ''
+  administrator: 
   all_rights_reserved: Tous droits réservés
   and: et
   back: Retour
   change: Changer
   close: Fermer
-  confirm_delete: Voulez-vous vraiment supprimer ce fichier?
+  confirm_delete:
+    really:
+      for_real: 
+      for_realsies: Voulez-vous vraiment supprimer ce fichier?
   confirmation: Confirmation
   cyberlibris: Cyberlibris
   days: jours
@@ -27,7 +30,10 @@ fr:
   example: Exemple
   execute: "Éxécuter"
   expand_all: Afficher tout
-  file: Fichier
+  file:
+    good_one: Bon fichier
+    bad_one: null
+    soso_one:
   files: Fichiers
   filesize: Taille du fichier
   free: Gratuit
