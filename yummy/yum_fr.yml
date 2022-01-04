@@ -1,13 +1,12 @@
----
 fr:
   a: a
   access: Accéder
   actions: Actions
   add_file: Ajouter un fichier
   added_on: Ajouté le
-  additional: null
+  additional:
   administration: ''
-  administrator: 
+  administrator:
   all_rights_reserved: Tous droits réservés
   and: et
   back: Retour
@@ -15,7 +14,7 @@ fr:
   close: Fermer
   confirm_delete:
     really:
-      for_real: 
+      for_real:
       for_realsies: Voulez-vous vraiment supprimer ce fichier?
   confirmation: Confirmation
   cyberlibris: Cyberlibris
@@ -32,14 +31,14 @@ fr:
   expand_all: Afficher tout
   file:
     good_one: Bon fichier
-    bad_one: null
+    bad_one:
     soso_one:
   files: Fichiers
   filesize: Taille du fichier
   free: Gratuit
   from: Du
-  fffuuuu: fffffuuuuuu
-  empty: null
+  fffuuuu: ''
+  empty:
   holidays: |
     Veuillez noter que pour la période des Fêtes, la plupart des partenaires
     connectés à la plateforme offriront des services plus limités qu'à l'habitude.
